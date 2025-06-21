@@ -2,6 +2,8 @@
 
 This repository contains a practical example of using an XGBoost Regressor to predict house prices based on the Boston Housing dataset.
 
+![](image.png)
+
 ## Features
 
 - Data preprocessing with categorical encoding (OneHotEncoder)
